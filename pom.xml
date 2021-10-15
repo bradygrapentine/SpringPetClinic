@@ -49,7 +49,6 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/bradygrapentine/SpringPetClinic.git</developerConnection>
-	  <tag>HEAD</tag>
-  </scm>
+   </scm>
 
 </project>
